@@ -18,9 +18,10 @@ Main developer: A. Roccon
 Current examples:
 * 3D FFT of an 3D array in one shot (easy to extend to 1D or 2D)
 * Use of cuSolverDN to solve a linear system (Dense)
-* Use of cuSolverSP to solve a linear system (work in progress)
+* Use of cuSolverSP to solve a linear system (Sparse). This requires the cration of the module.
 
 The bash files can be used to compile the different examples
 
 The doc folder contains useful tutorials.
 See also the book "Parallel Programming with OpenACC" by Rob Farber.
+Useful link: https://hpcworld-jp.translate.goog/archive/SPG/Pgi/OpenACC/012-1.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=it&_x_tr_pto=wapp#csrqrbatch_ACC
